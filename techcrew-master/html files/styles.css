@@ -1,0 +1,14 @@
+.jumbotron {
+	margin-bottom: 50px;
+	margin-top: 50px;
+	
+	line-height: 250%;
+}
+body{
+	font-family: 'Liber Baskerville';
+	font-weight: bold;
+}
+h1, h3, h4 {
+	font-family: 'Ravi Prakash', cursive;
+	text-align: center;
+}
